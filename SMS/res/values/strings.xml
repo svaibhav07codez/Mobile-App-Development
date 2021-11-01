@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMS send and receive</string>
+    <string name="sending_sms_example">Sending SMS Example</string>
+    <string name="enter_sms">Enter SMS</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="sms_example">SMS Application</string>
+</resources>
